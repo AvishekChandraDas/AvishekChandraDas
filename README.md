@@ -134,16 +134,9 @@ const avishek = {
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
+
 <img src="https://github-readme-stats.vercel.app/api?username=AvishekChandraDas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="100%"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AvishekChandraDas&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%"/>
-</td>
-</tr>
-</table>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvishekChandraDas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%"/>
 
